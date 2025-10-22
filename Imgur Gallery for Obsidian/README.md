@@ -23,14 +23,15 @@ To make it work with Digital Garden:
 ## How to use
 
 In the line you want the gallery inserted:
-	1. Call the comand block and activate the plugin.
-	2. Choose the appropriate image style you want. There's 4 options:
-		2.1. Auto-adjust your images so they become a gallery
-		2.2. 2 to 3 images, side by side
-		2.3. View a single image in full width
-		2.4. Shows a centered tiny preview
-	3. Paste the imgur links (doesn't work with folders, only images) and insert it.
-	4. Profit.
+
+1. Call the comand block and activate the plugin.
+2. Choose the appropriate image style you want. There's 4 options:
+	2.1. Auto-adjust your images so they become a gallery
+	2.2. 2 to 3 images, side by side
+	2.3. View a single image in full width
+	2.4. Shows a centered tiny preview
+3. Paste the imgur links (doesn't work with folders, only images) and insert it.
+4. Profit.
 
 ## Comments
 
