@@ -1,0 +1,10 @@
+{
+  "id": "imgur-gallery-plugin",
+  "name": "Imgur Gallery",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Converts Imgur image links into galleries inside Obsidian and Digital Garden (requires Dataview and Templater).",
+  "author": "Sinsi",
+  "authorUrl": "https://github.com/baranduinsar",
+  "isDesktopOnly": true
+}
